@@ -1,4 +1,4 @@
-<h1> 📁 Project Summary</h1>
+<h1> 📁 Project Summary - Animais Fantasticos</h1>
 
 - Slide of the Animais Fantásticos project of the Complete JavaScript course ES6 from Origamid.
 
