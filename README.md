@@ -1,6 +1,6 @@
 <h1> 📁 Resumo do Projeto</h1>
 
-- Slide do projeto Animais Fantásticos do curso Completo de JavaScript ES6 da Origamid.
+- Site do projeto Animais Fantásticos do curso Completo de JavaScript ES6 da Origamid.
 
 🔨 Características do Projeto
 ---
@@ -8,7 +8,7 @@ Para este projeto, criei um site personalizado com o tema de animais usando Java
 
 Também aprimorei meu conhecimento na sintaxe de classes, que é uma forma de criar objetos em JavaScript. As classes proporcionam uma maneira mais estruturada e organizada de criar objetos do que as funções construtoras tradicionais.
 
-Por fim, aprendi como criar slides personalizados para o meu site. Esses slides podem ser usados para apresentar informações e imagens dos animais de forma dinâmica e interativa. No geral, meu projeto envolveu o uso das técnicas que aprendi no curso, como a função debounce, a sintaxe de classes e os slides personalizados, para criar um site único e envolvente com o tema de animais.
+Por fim, aprendi como criar animações personalizados para o meu site. Essas animações podem ser usados para apresentar informações e imagens dos animais de forma dinâmica e interativa. No geral, meu projeto envolveu o uso das técnicas que aprendi no curso, como a função debounce, a sintaxe de classes e os animações personalizadas, para criar um site único e envolvente com o tema de animais.
 
 ✔️ Técnicas e Tecnologias Utilizadas
 ---
