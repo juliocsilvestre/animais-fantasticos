@@ -1,16 +1,17 @@
-<h1> 📁 Project Summary - Animais Fantasticos</h1>
+<h1> 📁 Resumo do Projeto</h1>
 
-- Slide of the Animais Fantásticos project of the Complete JavaScript course ES6 from Origamid.
+-   Site do projeto Animais Fantásticos do curso Completo de JavaScript ES6 da Origamid.
 
-🔨 Project features
----
-- For this project, I created a custom website with the theme of animals using JavaScript. During the course, I learned how to create a debounce function, which is a technique to delay the execution of a function until a certain period of time has passed. This function can be useful to improve the performance of my website, for example, in cases of events that occur very frequently.
-  I also improved my knowledge of class syntax, which is a way to create objects in JavaScript. Classes provide a more structured and organized way to create objects than traditional constructor functions.
-  Finally, I learned how to create custom slides for my website. These slides can be used to present information and images of the animals in a dynamic and interactive way.
-  Overall, my project involved using the techniques I learned in the course, such as the debounce function, class syntax, and custom slides, to create a unique and engaging website with an animal theme.
+## 🔨 Características do Projeto
 
-✔️ Techniques and technologies used
----
-- HTML5
-- CSS3
-- Javascript
+Para este projeto, criei um site personalizado com o tema de animais usando JavaScript. Durante o curso, aprendi como criar uma função debounce, que é uma técnica para atrasar a execução de uma função até que um certo período de tempo tenha passado. Essa função pode ser útil para melhorar o desempenho do meu site, por exemplo, em casos de eventos que ocorrem muito frequentemente.
+
+Também aprimorei meu conhecimento na sintaxe de classes, que é uma forma de criar objetos em JavaScript. As classes proporcionam uma maneira mais estruturada e organizada de criar objetos do que as funções construtoras tradicionais.
+
+Por fim, aprendi como criar animações personalizados para o meu site. Essas animações podem ser usados para apresentar informações e imagens dos animais de forma dinâmica e interativa. No geral, meu projeto envolveu o uso das técnicas que aprendi no curso, como a função debounce, a sintaxe de classes e os animações personalizadas, para criar um site único e envolvente com o tema de animais.
+
+## ✔️ Técnicas e Tecnologias Utilizadas
+
+-   HTML5
+-   CSS3
+-   Javascript
